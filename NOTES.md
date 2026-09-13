@@ -2,9 +2,15 @@
 
 ## Alex's Tasks
 
-- [ ] Design the UI.
+- 9/13/26
+- [x] Design the UI.
 - [x] Set up a Vercel account for hosting.
 - [x] Set up a Firebase account for the database.
+
+- 9/20/26
+- [ ] Determin the shape of the data (prob just follow openlibrary)
+- [ ] figure out books page layout (I suggest looking at other apps / what you already like to use (like shelfs from kindle or the like))
+- [ ] have fun
 
 ## Josiah's Responsibilities
 
