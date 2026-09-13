@@ -3,8 +3,8 @@
 ## Alex's Tasks
 
 - [ ] Design the UI.
-- [ ] Set up a Vercel account for hosting.
-- [ ] Set up a Firebase account for the database.
+- [x] Set up a Vercel account for hosting.
+- [x] Set up a Firebase account for the database.
 
 ## Josiah's Responsibilities
 
