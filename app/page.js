@@ -1,12 +1,17 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-['Helvetica'] dark:bg-[#8286B5]">
       <nav className="flex w-full items-center justify-center gap-8 py-6">
-        <a href="#home" className="text-sm font-medium text-black dark:text-white">
+        {/* Link is Next.js's navigation component, which renders an anchor.
+            Use it for internal routes to enable client-side navigation without
+            a full page reload and prefetching for faster page transitions.
+            This #home destination keeps the existing same-page anchor behavior. */}
+        <Link href="#home" className="text-sm font-medium text-black dark:text-white">
           Home
-        </a>
+        </Link>
         <a href="#scan" className="text-sm font-medium text-black dark:text-white">
           Scan
         </a>
